@@ -1,0 +1,14 @@
+.*
+!.gitignore
+!.github/
+
+*pyc
+__pycache__
+
+logs/
+*.log
+*.log.*
+
+*.db
+
+PluginClub/config.yaml

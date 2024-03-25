@@ -1,0 +1,9 @@
+lxml~=4.9.3
+openai
+pandas~=2.0.3
+pyyaml~=6.0.1
+requests~=2.31.0
+schedule~=1.2.0
+wcferry>=39.0.0.1
+
+SQLAlchemy~=2.0.19
